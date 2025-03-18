@@ -1,0 +1,47 @@
+.card-1 {
+    border-top: 5px solid #ff4f64;
+    height: 250px;
+    border-radius: 9px;
+    padding:15px;display: flex;
+    flex-direction: column;
+    align-items: end;
+  }
+  .technologyHeading{
+    color:#171f46;
+    font-family: roboto;
+    font-weight: 500;
+  }
+  .imageClass{
+    height:93px;
+width:100px  }
+  .technologyDescription{
+    color:#64748b;
+  }
+  
+  .card-2 {
+    border-top: 5px solid #00a8e7;
+    height: 250px;
+    border-radius: 9px;
+     padding:15px;
+     display: flex;
+    flex-direction: column;
+    align-items: end;
+  }
+  
+  .card-3 {
+    border-top: 5px solid #44c4a1;
+    height: 250px;
+    border-radius: 9px; padding:15px;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+  }
+  
+  .card-4 {
+    border-top: 5px solid #fcc200;
+    height: 250px;
+    border-radius: 9px; padding:15px;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+  }
